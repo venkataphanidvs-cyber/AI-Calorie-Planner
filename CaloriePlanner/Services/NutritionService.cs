@@ -8,7 +8,7 @@ namespace CaloriePlanner.Services
     public class NutritionService
     {
         private readonly HttpClient _httpClient = new HttpClient();
-        private const string ApiKey = "AyIjfp2aZrVq3enzERx8AqScGtuWszjcrrDfh7EK";
+        private const string ApiKey = "API KEY";
 
         public async Task<double> GetCalories(string fruitName)
         {
