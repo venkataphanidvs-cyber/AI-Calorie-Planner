@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\phani\\source\\repos\\CaloriePlanner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB501B6-0E49-8502-6C3B-B9DF3A7BE0B8}|CaloriePlanner\\CaloriePlanner.csproj|c:\\users\\phani\\source\\repos\\calorieplanner\\calorieplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB501B6-0E49-8502-6C3B-B9DF3A7BE0B8}|CaloriePlanner\\CaloriePlanner.csproj|solutionrelative:calorieplanner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB501B6-0E49-8502-6C3B-B9DF3A7BE0B8}|CaloriePlanner\\CaloriePlanner.csproj|c:\\users\\phani\\source\\repos\\calorieplanner\\calorieplanner\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB501B6-0E49-8502-6C3B-B9DF3A7BE0B8}|CaloriePlanner\\CaloriePlanner.csproj|solutionrelative:calorieplanner\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB501B6-0E49-8502-6C3B-B9DF3A7BE0B8}|CaloriePlanner\\CaloriePlanner.csproj|c:\\users\\phani\\source\\repos\\calorieplanner\\calorieplanner\\model\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB501B6-0E49-8502-6C3B-B9DF3A7BE0B8}|CaloriePlanner\\CaloriePlanner.csproj|solutionrelative:calorieplanner\\model\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB501B6-0E49-8502-6C3B-B9DF3A7BE0B8}|CaloriePlanner\\CaloriePlanner.csproj|c:\\users\\phani\\source\\repos\\calorieplanner\\calorieplanner\\services\\calorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB501B6-0E49-8502-6C3B-B9DF3A7BE0B8}|CaloriePlanner\\CaloriePlanner.csproj|solutionrelative:calorieplanner\\services\\calorieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB501B6-0E49-8502-6C3B-B9DF3A7BE0B8}|CaloriePlanner\\CaloriePlanner.csproj|c:\\users\\phani\\source\\repos\\calorieplanner\\calorieplanner\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB501B6-0E49-8502-6C3B-B9DF3A7BE0B8}|CaloriePlanner\\CaloriePlanner.csproj|solutionrelative:calorieplanner\\services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB501B6-0E49-8502-6C3B-B9DF3A7BE0B8}|CaloriePlanner\\CaloriePlanner.csproj|c:\\users\\phani\\source\\repos\\calorieplanner\\calorieplanner\\services\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB501B6-0E49-8502-6C3B-B9DF3A7BE0B8}|CaloriePlanner\\CaloriePlanner.csproj|solutionrelative:calorieplanner\\services\\excelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB501B6-0E49-8502-6C3B-B9DF3A7BE0B8}|CaloriePlanner\\CaloriePlanner.csproj|c:\\users\\phani\\source\\repos\\calorieplanner\\calorieplanner\\services\\nutritionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BB501B6-0E49-8502-6C3B-B9DF3A7BE0B8}|CaloriePlanner\\CaloriePlanner.csproj|solutionrelative:calorieplanner\\services\\nutritionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AiService.cs",
+              "DocumentMoniker": "C:\\Users\\phani\\source\\repos\\CaloriePlanner\\CaloriePlanner\\Services\\AiService.cs",
+              "RelativeDocumentMoniker": "CaloriePlanner\\Services\\AiService.cs",
+              "ToolTip": "C:\\Users\\phani\\source\\repos\\CaloriePlanner\\CaloriePlanner\\Services\\AiService.cs",
+              "RelativeToolTip": "CaloriePlanner\\Services\\AiService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAiwBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:01:13.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExcelService.cs",
+              "DocumentMoniker": "C:\\Users\\phani\\source\\repos\\CaloriePlanner\\CaloriePlanner\\Services\\ExcelService.cs",
+              "RelativeDocumentMoniker": "CaloriePlanner\\Services\\ExcelService.cs",
+              "ToolTip": "C:\\Users\\phani\\source\\repos\\CaloriePlanner\\CaloriePlanner\\Services\\ExcelService.cs",
+              "RelativeToolTip": "CaloriePlanner\\Services\\ExcelService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:33:49.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NutritionService.cs",
+              "DocumentMoniker": "C:\\Users\\phani\\source\\repos\\CaloriePlanner\\CaloriePlanner\\Services\\NutritionService.cs",
+              "RelativeDocumentMoniker": "CaloriePlanner\\Services\\NutritionService.cs",
+              "ToolTip": "C:\\Users\\phani\\source\\repos\\CaloriePlanner\\CaloriePlanner\\Services\\NutritionService.cs",
+              "RelativeToolTip": "CaloriePlanner\\Services\\NutritionService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:32:26.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalorieService.cs",
+              "DocumentMoniker": "C:\\Users\\phani\\source\\repos\\CaloriePlanner\\CaloriePlanner\\Services\\CalorieService.cs",
+              "RelativeDocumentMoniker": "CaloriePlanner\\Services\\CalorieService.cs",
+              "ToolTip": "C:\\Users\\phani\\source\\repos\\CaloriePlanner\\CaloriePlanner\\Services\\CalorieService.cs",
+              "RelativeToolTip": "CaloriePlanner\\Services\\CalorieService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:30:01.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "C:\\Users\\phani\\source\\repos\\CaloriePlanner\\CaloriePlanner\\Model\\Fruit.cs",
+              "RelativeDocumentMoniker": "CaloriePlanner\\Model\\Fruit.cs",
+              "ToolTip": "C:\\Users\\phani\\source\\repos\\CaloriePlanner\\CaloriePlanner\\Model\\Fruit.cs",
+              "RelativeToolTip": "CaloriePlanner\\Model\\Fruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T14:18:59.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\phani\\source\\repos\\CaloriePlanner\\CaloriePlanner\\Model\\User.cs",
+              "RelativeDocumentMoniker": "CaloriePlanner\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\phani\\source\\repos\\CaloriePlanner\\CaloriePlanner\\Model\\User.cs",
+              "RelativeToolTip": "CaloriePlanner\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T17:35:23.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\phani\\source\\repos\\CaloriePlanner\\CaloriePlanner\\Program.cs",
+              "RelativeDocumentMoniker": "CaloriePlanner\\Program.cs",
+              "ToolTip": "C:\\Users\\phani\\source\\repos\\CaloriePlanner\\CaloriePlanner\\Program.cs",
+              "RelativeToolTip": "CaloriePlanner\\Program.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAuwEsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T17:26:49.585Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
